@@ -1,7 +1,7 @@
 # Proyecto-Calculadora-Itla---Breylin-Sanchez
 
 # Calculadora Básica
-¡Hola! Soy Breylin Sánchez, y este es mi proyecto de una calculadora básica desarrollada con HTML, CSS (usando Bootstrap) y JavaScript. Esta calculadora es funcional y está diseñada para realizar operaciones matemáticas simples como suma, resta, multiplicación, división, potenciación y raíces. ¡Espero que te sea útil!
+Soy Breylin Sánchez, y este es mi proyecto de una calculadora básica desarrollada con HTML, CSS (usando Bootstrap) y JavaScript. Esta calculadora es funcional y está diseñada para realizar operaciones matemáticas simples como suma, resta, multiplicación, división, potenciación y raíces. 
 
 # Características Principales
 1- Operaciones básicas: Suma, resta, multiplicación y división.
