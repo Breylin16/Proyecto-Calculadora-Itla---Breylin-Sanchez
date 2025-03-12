@@ -26,8 +26,8 @@ Soy Breylin Sánchez, y este es mi proyecto de una calculadora básica desarroll
 
 
 ## ¡Contáctame!
-Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en contactarme:
 
 GitHub: Breylin16
+
 Email: gbreylin16@gmail.com
 
