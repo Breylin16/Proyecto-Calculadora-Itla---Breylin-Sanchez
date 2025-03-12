@@ -10,7 +10,7 @@
 
 3- Interfaz intuitiva: Diseño moderno y responsive.
 
-## Fácil de usar: Botones grandes y claros para una experiencia de usuario óptima.
+4- Fácil de usar: Botones grandes y claros para una experiencia de usuario óptima.
 
 ## ¿Cómo Usar la Calculadora?
 1- Ingresa números: Haz clic en los botones numéricos para ingresar valores.
@@ -22,7 +22,8 @@
 4- Borrar valores: Usa el botón C para borrar todo o el botón ← para borrar el último dígito.
 
 ## Captura de Pantalla:
-![Screenshot 2025-03-12 110542](https://github.com/user-attachments/assets/579203ce-63a9-4e49-84d5-b8b6d660d844)
+![image](https://github.com/user-attachments/assets/ba1c2256-fd78-4c75-ad30-fce12f52d691)
+
 
 ## ¡Contáctame!
 Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en contactarme:
